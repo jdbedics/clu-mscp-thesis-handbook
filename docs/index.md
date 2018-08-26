@@ -24,7 +24,7 @@ Courses in your second year include:
 | Class          | Semester | Units | 
 |----------------|---------------|-----------|
 | Research Seminar (565) | Fall | 3 |
-| ABA | Fall  | # |
+| ABA | Fall  | 3 |
 | Specialization Part I | Fall | 3 |
 | Thesis Units (566) | Spring | 3 |
 | Specialization Part II | Spring | 3 |
