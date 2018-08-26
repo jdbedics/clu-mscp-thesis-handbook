@@ -1,7 +1,7 @@
-book_filename: "CLU MSCP Thesis Handbook"
+book_filename: "CLU Thesis Handbook"
 chapter_name: "Section "
 repo: https://github.com/jdbedics/clu-mscp-thesis-handbook
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+rmd_files: ["index.Rmd", "01-checklist.Rmd", "02-committee.Rmd", "03-paper.Rmd", "04-osf.Rmd", "05-Thesis-Binding.Rmd", "06-Thesis-Commons.Rmd", "07-presentation-publication.Rmd", "08-research-project.Rmd", "09-links.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
