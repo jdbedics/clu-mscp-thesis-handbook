@@ -18,15 +18,15 @@ Students completing a Research Project (option 3) with the complete the followin
 
 | Task           | Date Due | Finished | 
 |----------------|---------------|-----------|
-| Topic Approved | | [ ] Director<br/>[ ] Instructor |
-| Organized and Publics OSF |  | - [ ]  |
-| Literature Review on Topic |  | - [ ]  |
-| IRB |  | [ ] Draft<br/>[ ] Submitted |
-| Reproducible R Code |  | - [ ]  |
-| A final R Markdown Report |  | - [ ]  |
-| A final Presentation (prferably made in R) |  | - [ ]  |
-| GitHub Blog | Optional | [ ]  |
-| Shiny App | Optional | [ ]  |
+| Topic Approved | Fall 2nd Year | [ ] Director<br/>[ ] Instructor |
+| Literature Review on Topic | Fall 2nd Year  | [ ]  |
+| IRB | Fall 2nd Year | [ ] Draft Only |
+| Reproducible R Code | Spring 2nd year | [ ]  |
+| Organized a Public OSF Page | Spring 2nd Year | [ ]  |
+| A final R Markdown Report | Spring 2nd Year | [ ]  |
+| A final Presentation (prferably made in R) | Spring 2nd Year  | [ ]  |
+| GitHub Blog | Optional but encouraged | [ ]  |
+| Shiny App | Optional but encouraged | [ ]  |
 
 
 

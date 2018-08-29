@@ -4,6 +4,7 @@ author: "Jamie Bedics, Ph.D., ABPP"
 date: "2018-08-28"
 site: bookdown::bookdown_site
 documentclass: book
+classoption: openany
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
