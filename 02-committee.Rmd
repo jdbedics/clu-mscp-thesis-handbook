@@ -5,8 +5,8 @@
 
 1.	Two committee members.
 
-  * One committee member is a “chair.”  The chair is the person that gives you the most feedback
-  * The second committee member is a “reader” and provides feedback on major sections of the draft such as the IRB, the final paper from PSYC565, and the final draft of the thesis. 
+  * One committee member serves as “chair.”  The chair is the person that gives you the most feedback
+  * The second committee member is a “reader” and provides limited feedback on major milestones of the thesis including the IRB draft, the final paper from PSYC565, and the final draft of the thesis. 
   * One committee member must be from CLU (chair or reader; doesn’t matter). 
   * Outside committee members are required to submit a Vita to the program director.
 
@@ -35,8 +35,11 @@ First Last Name
 ## Working with your committee
 
 The committee will be most successful if you establish clear expectations of when you will talk or email with each other.  Clearly established expectations will prevent you from emailing too little or too much. Establish the following:
+  
   * Make a clear statment that you would like to be mindful of their time and not approach them too much nor too little.
+  
   * How often would they like to look at your work?
+  
   * How often would they like to talk/video conference?
   
 

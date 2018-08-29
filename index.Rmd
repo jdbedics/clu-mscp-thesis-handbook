@@ -11,7 +11,7 @@ github-repo: jdbedics/clu-mscp-thesis-handbook
 description: "Guidelines for complete the thesis for the MS in Clinical Psychology Program at CLU."
 ---
 
-# Introduction {-}
+# Introduction
 
 The following information provides tips and guideance for the successful completion of the Thesis or Thesis Project in the MS in Clinical Psychology Program at California Lutheran University.
 
@@ -48,7 +48,7 @@ The elective (3-units) could be Part II of any specialization or anything that D
 
 
 
-## Thesis **lite** Version
+## Thesis Lite Version
 
 Here you can take the Research Seminar (565) in the Fall but not complete the thesis in the spring. People do this when they want to start a research project but then use it as a launching pad for a dissertation so they do not collect data in the Spring.  People also use this when they start the thesis with the intent to collect data but things do not work out with their sample or other issues come up that would prevent completion of the thesis.
 
@@ -62,4 +62,4 @@ Courses in your second year include:
 | Specialization Part II | Spring | 3 |
 | Comprehensive Exam | Spring | 0 |
 
-In this situation, the Research seminar in the Fall has served as your elective.  You can, if you like, take another elective if you want to keep you at part-time.
+In this situation, the Research seminar in the Fall has served as your elective.  You can, if you like, take another elective if you want to maintain your part-time student status.
