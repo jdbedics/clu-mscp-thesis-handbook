@@ -14,21 +14,23 @@ description: "Guidelines for complete the thesis for the MS in Clinical Psycholo
 
 # Introduction
 
-The following information provides tips and guideance for the successful completion of the Thesis or Thesis Project in the MS in Clinical Psychology Program at California Lutheran University.
+The thesis allows students to develop their ideas and interests in a structured way with faculty support.  The greatest benefit of the thesis is that it allows you to better explore and understand an area of passion and interest to the student.  Theses represent an opporutunity to showcase their word to doctoral programs or employers.
 
-## Full Thesis Option
 
-In this option you will take the research seminar class (565) in the Fall and also take thesis units in the Spring (there is, however, no class meeting). The full thesis option includes the development of your own independent research project which typically include the collection, analysis, and publication of data. 
 
-Courses in your second year include:
+## Timeline
 
-| Class          | Semester | Units | 
+
+
+| Thesis Steps          | Semester | Year |
 |----------------|---------------|-----------|
-| Research Seminar (565) | Fall | 3 |
-| ABA | Fall  | 3 |
-| Specialization Part I | Fall | 3 |
-| Thesis Units (566) | Spring | 3 |
-| Specialization Part II | Spring | 3 |
+| Meet with Dr. Bedic and discuss topics | Fall | 1 |
+| Complete a literature review in 564 | Fall  | 1 |
+| Review and revise literature review with Dr. Bedics | Spring | 1 |
+| Select a Committee | Spring | 1 |
+| Create Project Template in Ethics | Summer |  |
+| Thesis Seminar (PSYC 565) | Fall | 2  |
+| Independent Thesis Credits | Spring | 2  |
 
 
 ## Full Comprehensive Exam Option
